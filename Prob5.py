@@ -6,7 +6,6 @@ while not thenum:
         if number % factor:
             thenum = 0
             break
-    print number
     number += 20
 
 print thenum
