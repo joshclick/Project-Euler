@@ -20,5 +20,3 @@ def factors(number):
             break
 
 print max(factors(600851475143))
-
-#need to figure out again
